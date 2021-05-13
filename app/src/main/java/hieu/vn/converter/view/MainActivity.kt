@@ -1,4 +1,4 @@
-package hieu.vn.converter
+package hieu.vn.converter.view
 
 import android.annotation.SuppressLint
 import android.content.Intent
@@ -11,6 +11,7 @@ import androidx.annotation.ColorInt
 import androidx.core.content.ContextCompat
 import com.google.android.material.snackbar.Snackbar
 import dagger.hilt.android.AndroidEntryPoint
+import hieu.vn.converter.R
 import hieu.vn.converter.databinding.ActivityMainBinding
 import hieu.vn.converter.helper.EndPoints
 import hieu.vn.converter.helper.Resource
